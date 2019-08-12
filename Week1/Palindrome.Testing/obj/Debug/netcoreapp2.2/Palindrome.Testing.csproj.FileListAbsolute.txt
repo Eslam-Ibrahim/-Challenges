@@ -1,0 +1,17 @@
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.csprojAssemblyReference.cache
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.csproj.CoreCompileInputs.cache
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.AssemblyInfoInputs.cache
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.AssemblyInfo.cs
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Testing.deps.json
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Testing.runtimeconfig.json
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Testing.runtimeconfig.dev.json
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Testing.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Testing.pdb
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Domain.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/bin/Debug/netcoreapp2.2/Palindrome.Domain.pdb
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.csproj.CopyComplete
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Testing/obj/Debug/netcoreapp2.2/Palindrome.Testing.pdb

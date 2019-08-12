@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/Palindrome.Client.csproj": {}
+  },
+  "projects": {
+    "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/Palindrome.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/Palindrome.Client.csproj",
+        "projectName": "Palindrome.Client",
+        "projectPath": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/Palindrome.Client.csproj",
+        "packagesPath": "/Users/wweqqful/.nuget/packages/",
+        "outputPath": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wweqqful/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Domain/Palindrome.Domain.csproj": {
+                "projectPath": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Domain/Palindrome.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Domain/Palindrome.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Domain/Palindrome.Domain.csproj",
+        "projectName": "Palindrome.Domain",
+        "projectPath": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Domain/Palindrome.Domain.csproj",
+        "packagesPath": "/Users/wweqqful/.nuget/packages/",
+        "outputPath": "/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wweqqful/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

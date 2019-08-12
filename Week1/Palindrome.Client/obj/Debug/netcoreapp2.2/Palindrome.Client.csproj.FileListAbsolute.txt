@@ -1,0 +1,14 @@
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.deps.json
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.runtimeconfig.json
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.runtimeconfig.dev.json
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.pdb
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Domain.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Domain.pdb
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.csprojAssemblyReference.cache
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.csproj.CoreCompileInputs.cache
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.AssemblyInfoInputs.cache
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.AssemblyInfo.cs
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.csproj.CopyComplete
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.dll
+/Eom's Data/EOM_DOCS/Revature/Challenges/Week1/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.pdb
